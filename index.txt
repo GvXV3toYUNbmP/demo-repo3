@@ -1,9 +1,8 @@
  hello it is Test3_Git 
 
  local fix2
-<<<<<<< HEAD
-changes
+
  add more..
-=======
  master changes
->>>>>>> main
+dddd
+
